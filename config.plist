@@ -296,18 +296,16 @@
 		<string>zh_CN:0</string>
 		<key>Mouse</key>
 		<dict>
-			<key>DoubleClick</key>
-			<integer>500</integer>
 			<key>Enabled</key>
 			<false/>
 			<key>Mirror</key>
 			<false/>
-			<key>Speed</key>
-			<integer>8</integer>
 		</dict>
 		<key>Scan</key>
 		<dict>
 			<key>Entries</key>
+			<true/>
+			<key>Linux</key>
 			<true/>
 			<key>Tool</key>
 			<true/>

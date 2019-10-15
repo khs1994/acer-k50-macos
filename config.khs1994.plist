@@ -377,7 +377,7 @@
 		</dict>
 		<key>Properties</key>
 		<dict>
-			<key>PciRoot(0)/Pci(0x1f,3)</key>
+			<key>PciRoot(0)/Pci(0x1f,0x3)</key>
 			<dict>
 				<key>#hda-gfx</key>
 				<string>onboard-1</string>
